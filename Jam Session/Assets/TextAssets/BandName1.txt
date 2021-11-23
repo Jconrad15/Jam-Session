@@ -1,0 +1,607 @@
+Cold
+Hot
+Warm
+Fast
+Slow
+Righteous
+Daft
+Cyber
+Red
+Maroon
+Scarlet
+Brick
+Sunset
+Burnt
+Orange
+Maize
+Goldenrod
+Dandelion
+Yellow
+Olive
+Spring
+Lemon
+Asparagus
+Fern
+Green
+Forest
+Sea
+Jungle
+Teal
+Light
+Aquamarine
+Turquoise
+Sky
+Cerulean
+Blue
+Indigo
+Cobalt
+Celestial
+Violet
+Royal
+Violet
+Fuchsia
+Mulberry
+Lavender
+Salmon
+Mahogany
+Sienna
+Brown
+Sepia
+Raw
+Tan
+Desert
+Timberwolf
+Gray
+Gold
+Silver
+Copper
+Black
+White
+Brass
+Rust
+Aged
+Steel
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+Eleven
+Grateful
+Ink
+Jam
+Knight
+Squire
+Animal Handler
+Arborist
+Atilliator
+Beekeeper
+Birdcatcher
+Bottler
+Cowherd
+Falconer
+Farmer
+Fisher
+Forager
+Gamekeeper
+Grove Keeper
+Herder
+Horse Trainer
+Hunter
+Master-of-Hounds
+Miller
+Prospector
+Ranger
+Shepherd
+Stablehand
+Sommelier
+Cellar Keeper
+Thresher
+Hired Thug
+Thug
+Trapper
+Vintner
+Woodcutter
+Architect
+Brickmaker
+Brickmason
+Carpenter
+Entertainer
+Fallen Paladin
+Claymason
+Stonemason
+Air Acrobat
+Actor
+Chef
+Dancer
+Gladiator
+Glasspainter
+Jester
+Minstrel
+Musician
+Painter
+Piper
+Playwright
+Poet
+Sculptor
+Singer
+Scullion
+Tattooist
+Writer
+Accountant
+Banker
+Brothel Owner
+Fishmonger
+Grocer
+Guild Master
+Innkeeper
+Ironmonger
+Merchant
+Peddler
+Plantation Owner
+Street Vendor
+Reeve
+Courier
+Corsair
+Cordwainer
+Herald
+Armorer
+Blacksmith
+Bladesmith
+Bookbinder
+Bower
+Brewer
+Candlemaker
+Ewerer
+Cartwright
+Cobbler
+Embroiderer
+Engraver
+Fletcher
+Furniture Artisan
+Glassmaker
+Goldsmith
+Silversmith
+Hatter
+Jeweler
+Leatherworker
+Locksmith
+Mercer
+Potter
+Tanner
+Thatcher
+Tinker
+Weaponsmith
+Weaver
+Woodcarver
+Assassin
+Bandit
+Bandit Captain
+Bandit Lord
+Burglar
+Buccaneer
+Brigand Leader
+Crime Boss
+Cutpurse
+Drug Lord
+Ditcher
+Fence
+Kidnapper
+Loan Shark
+Herald
+Outlaw
+Pirate
+Poacher
+Smuggler
+Thief
+Anthropologist
+Apprentice
+Archaeologist
+Archivist
+Artificer
+Astrologer
+Botanist
+Cartographer
+Chamberlain
+Chemist
+Engineer
+Historian
+Librarian
+Mathematician
+Philosopher
+Professor
+Scholar
+Researcher
+Scribe
+Student
+Theologian
+Archduke
+Archduchess
+Aristocrat
+Baron
+Baroness
+Chancellor
+Chief
+Constable
+Count
+Countess
+Courtier
+Diplomat
+Duke
+Duchess
+Emperor
+Empress
+Judge
+King
+Queen
+Knight
+Lawyer
+Marquess
+Master of Coin
+Master of the Revels
+Minister
+Noble
+Orator
+Prince
+Princess
+Preacher
+Steward
+Squire
+Tax Collector
+Viscount
+Viscountess
+Ward
+Alchemist
+Apothecary
+Bloodletter
+Doctor
+Healer
+Herbalist
+Mortician
+Nurse
+Physician
+Surgeon
+Veterinarian
+Baker
+Barber
+Barkeep
+Butcher
+Charcoal Maker
+Clerk
+Clothier
+Cook
+Distiller
+Florist
+Gardener
+Gravetender
+Housemaid
+Laborer
+Landscaper
+Laundry Worker
+Butler
+Miner
+Orphanage Caretaker
+Page
+Pastry Chef
+Plumer
+Porter
+Tavern Worker
+Abjurer
+Archmage
+Augurer
+Conjuror
+Elementalist
+Enchanter
+Enchantress
+Evoker
+Hearth-witch
+Illusionist
+Incantor
+Imam
+Mage
+Necromancer
+Ritualist
+Performer
+Runecaster
+Sage
+Oracle
+Shaman
+Shapeshifter
+Swineherd
+Swashbuckler
+Sorcerer
+Sorceress
+Summoner
+Transmuter
+Moneylender
+Pyromancer
+Rum-Runner
+Warlock
+Witchdoctor
+Witch
+Wizard
+Wordsmith
+Admiral
+Archer
+Bailiff
+Bodyguard
+Captain
+Castellan
+Cavalier
+City Watch
+Detective
+Duelist
+Executioner
+Firefighter
+Guard
+General
+Jailer
+Man-at-Arms
+Marshal
+Mercenary
+Sapper
+Sentinel
+Sergeant
+Sergeant-at-Arms
+Scout
+Scoundrel
+Siege Artillerist
+Soldier
+Sojourner
+Spearman
+Spy
+Tactician
+Torturer
+Warden
+Warmage
+Abbot
+Abbess
+Acolyte
+Archbishop
+Shoemaker
+Archpriest
+Bishop
+Cardinal
+Chaplain
+Clergy
+Cleric
+Cultist
+Cult Leader
+Diviner
+Friar
+High Priest
+Inquisitor
+Missionary
+Monk
+Paladin
+Pardoner
+Priest
+Prophet
+Boatman
+Caravaneer
+Caravan Guard
+Charioteer
+Ferryman
+First Mate
+Helmsman
+Navigator
+Sailor
+Sea Captain
+Shipwright
+Adventurer
+Beggar
+Blood Hunter
+Monster Hunter
+Bounty Hunter
+Deserter
+Disgraced Noble
+Dungeon Delver
+Elder
+Exile
+Explorer
+Ex-Criminal
+Far Traveler
+Folk Hero
+Fool
+Gambler
+Spinster
+Grave Robber
+Berserker
+Tomb Raider
+Heretic
+Hermit
+Pilgrim
+Rebel
+Refugee
+Urchin
+Vagabond
+Mage Hunter
+Alcoholic
+Arcanist
+Arcane Navigator
+Blood Mage
+Arcana Spy
+Battlesmith
+Amnesiac
+Adept
+Ancient Cultist
+Ancient One
+Antiquarian
+Artist
+Assistant
+Cattle Rustler
+Chronicler
+Collector
+Combat Medic
+Conscript
+Courtesan
+Dark Lord
+Demonologist
+Envoy
+Fallen Hero
+Fortune Teller
+Inventor
+Islander
+Law Bringer
+Linguist
+Lore Keeper
+Messenger
+Metal Worker
+Mystic
+Occultist
+Politician
+Retired Hero
+Revolutionist
+Scavenger
+Tailor
+Witch Hunter
+Barbarian
+Bard
+Druid
+Fighter
+Ranger
+Rogue
+Sorcerer
+Warlock
+Wizard
+Cannoneer
+Commander
+Imperial Commander
+Watchman
+Gang
+Death
+Life
+Heat
+Water
+Light
+Lightning
+Wind
+Sound
+Strength
+Curse
+Gravity
+Ice
+Space
+Time
+Bewitched
+Enchanted
+Spellbound
+Bewitching
+Charming
+Conjuring
+Enchanting
+Wiling
+Amazing
+Astonishing
+Astounding
+Awesome
+Extraordinary
+Fabulous
+Marvelous
+Miraculous
+Portentous
+Stunning
+Stupendous
+Sublime
+Wondrous
+Divining
+Forecasting
+Foreknowing
+Foreseeing
+Foretelling
+Predicting
+Presaging
+Prognosticating
+Prophesying
+Soothsaying
+Metaphysical
+Preternatural
+Unearthly
+Paranormal
+Supernormal
+Aggressive
+Antagonistic
+Ardent
+Battling
+Bellicose
+Cantankerous
+Combative
+Functioning
+Working
+Active
+Cursive
+Dynamic
+Moving
+Unbroken
+Uninterrupted
+Unceasing
+Unintermittedly
+Cardinal
+Coral
+Crimson
+Glowing
+Wine
+Sanguine
+Healthy
+Robust
+Hardy
+Potent
+Whole
+Unimpaired
+Pleasant
+Boisterous
+Merry
+Witty
+Unpleasant
+Distasteful
+Obnoxious
+Sour
+Troublesome
+Gross
+Poisonous
+Unpalatable
+Bitter
+Peppery
+Rancid
+Salty
+Sharp
+Keen
+Acrid
+Briny
+Fermented
+Dangerous
+Deadly
+Venomous
+Vicious
+Deterimental
+Miasmatic
+Viperous
+Toxicant
+Lethal
+Fatal
+Noxious
+Colorless
+Damp
+Adulterated
+Fluid
+Bloodless
+Thin
+Washed
+Dehydrated
+Soring
+Towering
+Elevated
+Giant
+Lank
+Statuesque
+Great
+Sizable
+Regal
+Majestic
+Graceful
+Stately

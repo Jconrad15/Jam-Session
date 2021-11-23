@@ -1,0 +1,274 @@
+Fire
+Water
+Earth
+Air
+Brothers
+Sisters
+Cream
+Band
+Punk
+Chicks
+Flamingos
+Circle
+Square
+Triangle
+Pentagon
+Hexagon
+Diamond
+Heart
+Spade
+Club
+Ape
+Baboon
+Badger
+Bat
+Bear
+Boar
+Camel
+Cat
+Centipede
+Crab
+Crocodile
+Deer
+Eagle
+Elephant
+Elk
+Fire Beetle
+Frog
+Goat
+Hawk
+Horse
+Hyena
+Jackal
+Ehale
+Lion
+Lizard
+Mammoth
+Mastiff
+Mule
+Octopus
+Owl
+Panther
+Rat
+Raven
+Rhinoceros
+Scorpion
+Sea Horse
+Shark
+Snake
+Spider
+Tiger
+Toad
+Vulture
+Wasp
+Bee
+Weasel
+Wolf
+Ant Lion
+Ant
+Antelope
+Albatross
+Canary
+Cockerel
+Bighorn Bison
+Blood Worm
+Bloodmare
+Bone Crab
+Bull
+Carrion Beetle
+Carrion Crow
+Catfish
+Crane
+Crayfish
+Demon Spider
+Dire Weasel
+Dolphin
+Porpoise
+Dragon
+Dread Raven
+Dwarf Hound
+Eel
+Ermine
+Flying Snake
+Fox
+Hare
+Hedgehog
+Hippopotamus
+Jellyfish
+Kangaroo
+Shrew
+Leech
+Koala
+Leopard
+Lynx
+Mastodon
+Mongoose
+Monkey
+Moon Cat
+Ostrich
+Ox
+Panda
+Parrot
+Penguin
+Pig
+Pike
+Platypus
+Porcupine
+Raccoon
+Rock
+Sea Serpent
+Shadow Raven
+Shadow Wolf
+Sheep
+Skunk
+Sloth
+Viper Adder
+Stingray
+Tapir
+Turtle
+Unicorn
+Moose
+Urchin
+Walrus
+Warthog
+Wyvern
+Wyrmling
+Baby Dragon
+Drake
+Titan
+Air Orb
+Elemental
+Vine
+Blood Bush
+Conch Tree
+Cavelight Moss
+Forest Nymph
+Dragonleaf Tree
+Gloomflower
+Kelp
+Seaweed
+Mandrake
+Moonflower
+Mushrooms
+Leaf
+Phlogiston Bush
+Deathcap
+Willow
+Ring
+Chestplate
+Helm
+Cuirass
+Pauldron
+Armor
+Guantlet
+Greave
+Boots
+Gloves
+Staff
+Wand
+Club
+Dagger
+Handaxe
+Javelin
+Hammer
+Mace
+Quarterstaff
+Sickle
+Spear
+Crossbow
+Dart
+Shortbow
+Sling
+Battleaxe
+Flail
+Glaive
+Greataxe
+Greatsword
+Halberd
+Lance
+Longsword
+Maul
+Morningstar
+Pike
+Rapier
+Scimitar
+Shortsword
+Trident
+Warhammer
+Whip
+Net
+Coins
+Candle
+Chain
+Crowbar
+Tackle
+Shield
+Hunting Trap
+Lantern
+Lock
+Magnifying Glass
+Cask
+Vial
+Barrel
+Quiver
+Ram
+Rope
+Scale
+Spellbook
+Spyglass
+Torch
+Arrow
+Bell
+Book
+Hourglass
+Ink, Pen, and Bottle
+Whetstone
+Umber
+Bullette
+Beholder
+Owlbear
+Mimic
+Wraith
+Troll
+Mind Flayer
+Goblin
+Orc
+Kobold
+Skeleton
+Aboleth
+Golem
+Amulet
+Trinket
+Jam
+Love
+Duo
+Trio
+Police
+Dan
+Top
+Stripes
+Underground
+Pact
+Dwelling
+Mansion
+Shack
+Bullpen
+Shanty
+Turf
+Farm
+Pasture
+Ranch
+Orchard
+Nursery
+Demense
+Vineyard
+Grange
+Arboretum
+Acropolis
+Fort
+Citadel
+Onion
+Grass
+Leeks
+Broth
+Soup
